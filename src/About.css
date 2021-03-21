@@ -1,0 +1,41 @@
+.about {
+  background-color: #dba3b0;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.about h1 {
+  margin: 0;
+  font-size: 4rem;
+  color: #290a15;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.about a {
+  text-decoration: none;
+}
+.clouds {
+  margin-bottom: 20px;
+  max-width: 1000px;
+  height: auto;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-radius: 25%;
+}
+.space {
+  padding-top: 30px;
+}
+.about p {
+  font-size: 1rem;
+  color: #290a15;
+  margin: 0px;
+}
+.about img {
+  padding-top: 20px;
+}
+.pinline img {
+  max-width: 500px;
+  height: auto;
+  margin-inline: 5px;
+}

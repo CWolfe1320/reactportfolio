@@ -1,0 +1,14 @@
+.cbody {
+  background-color: #ffd3ec;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.cbody p {
+  margin: 0;
+  font-size: 2rem;
+  color: #290a15;
+  margin-inline: 50px;
+  text-align: center;
+}

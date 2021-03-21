@@ -1,0 +1,42 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #840726;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 50px;
+}
+
+.copyright {
+  max-width: 600px;
+}
+
+nav p {
+  text-decoration: none;
+  color: #e1b4d3;
+  font-size: 15px;
+  margin-left: -1580px;
+}
+
+.centered {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+nav div img {
+  max-width: 20px;
+  height: auto;
+  margin-inline: 5px;
+}
+
+nav div a img {
+  max-width: 20px;
+  height: auto;
+  margin-inline: 5px;
+}
+
+.contact {
+  padding-right: 20px;
+}
