@@ -22,15 +22,16 @@
 
 .minemedia img {
   margin-inline: 15px;
+  max-width: 40vw;
 }
 .gatormedia img {
   margin-inline: 15px;
-  max-width: 400px;
+  max-width: 20vw;
   height: auto;
 }
 .websitemedia img {
   margin-inline: 15px;
-  max-width: 500px;
+  max-width: 40vw;
   height: auto;
 }
 .portfolio p {

@@ -4,15 +4,15 @@ header {
 }
 
 header h1 {
-  padding-top: 120px;
+  padding-top: 10vh;
   margin: 0;
-  font-size: 4rem;
+  font-size: 7vh;
   color: #290a15;
 }
 
 header p {
   margin: 0;
-  font-size: 2rem;
+  font-size: 4vh;
   color: #290a15;
   margin-bottom: 20px;
 }
@@ -23,7 +23,7 @@ header a {
   background-color: #143a00;
   border-color: #143a00;
   color: #fff;
-  padding: 1.25rem 2.5rem;
+  padding: 2vh 1.5vw;
   text-decoration: none;
   border-radius: 0.5rem;
   display: inline-block;
@@ -32,7 +32,7 @@ header a {
 
 header img {
   margin-bottom: 20px;
-  max-width: 350px;
+  max-width: 15vw;
   height: auto;
   padding-top: 20px;
   padding-bottom: 20px;

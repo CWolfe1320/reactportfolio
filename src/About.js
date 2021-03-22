@@ -26,7 +26,6 @@ class About extends Component{
 
                 <div className="pinline">
                     <img src= 'images/corian.png' alt="" className="corian"/>
-                    <img src= 'images/beach.jpg' alt="" className="beach"/>
                     <img src= 'images/skydive.jpg' alt="" className="skydive"/>
                 </div>
 
