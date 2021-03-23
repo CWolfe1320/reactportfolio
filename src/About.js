@@ -21,7 +21,7 @@ class About extends Component{
                 <p>Improv has taught me so much in terms of thinking quickly on my feet, and collaborating with others in a fast paced environment!</p>
 
                 <h1>{this.props.hobbies}</h1>
-                <p>I enjoy travelling and adventuring with my girlfriend Jillian Zuwala. I love finding new sights, and creating new memories.</p>
+                <p className = "jillian">I enjoy travelling and adventuring with my girlfriend <a href="https://www.linkedin.com/in/jillian-zuwala/">Jillian Zuwala.</a>I love finding new sights, and creating new memories.</p>
                 <p>In addition to that, I love reading, creative writing, gaming, and music. Don't forget long walks on the beach!</p>
 
                 <div className="pinline">
