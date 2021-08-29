@@ -17,7 +17,7 @@ class App extends Component {
         <Navigation logoTitle="Corey Wolfe"/>
         <Header title="Corey Wolfe" bResume="Resume" bGit="Github" bLinkd="LinkedIn"/>
         <About about="About Me" tsf="Theatre Strike Force" hobbies="Hobbies"/>
-        <Portfolio portfolio="Portfolio" minesweeper="Minesweeper" gator="Gator AVL" website="React Portfolio Website"/>
+        <Portfolio portfolio="Portfolio" minesweeper="Minesweeper" gator="Gator AVL" website="React Portfolio Website" pomodorobuddy="Pomodoro Buddy" tacl="T.A.C.L."/>
         <Contact contact="Contact Me:"/>
         <Footer copyRight="Corey Wolfe © 2021"/>
       </div>
